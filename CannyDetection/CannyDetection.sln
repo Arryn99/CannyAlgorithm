@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CannyDetection", "CannyDetection\CannyDetection.vcxproj", "{EA72FD1D-CCEE-45C4-90A9-19419E6CB844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA72FD1D-CCEE-45C4-90A9-19419E6CB844}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA72FD1D-CCEE-45C4-90A9-19419E6CB844}.Debug|Win32.Build.0 = Debug|Win32
+		{EA72FD1D-CCEE-45C4-90A9-19419E6CB844}.Release|Win32.ActiveCfg = Release|Win32
+		{EA72FD1D-CCEE-45C4-90A9-19419E6CB844}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
